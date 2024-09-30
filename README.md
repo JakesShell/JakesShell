@@ -11,7 +11,7 @@ Data Theft/ CASE STUDY </b>
  
 - <b>Cybersecurity</b>
 - <b>Java</b>
- - [Political Party Guesser](https://github.com/JakesShell/CyberResearch/tree/main)
+ - [Political Party Guesser](https://github.com/JakesShell/PoliticalQuizApp/tree/main)
 - <b>JavaScript</b>
 - <b>Logism</b>
 - <b>Project Management</b>
