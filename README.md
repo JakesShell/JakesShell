@@ -11,6 +11,7 @@ Data Theft/ CASE STUDY </b>
  
 - <b>Cybersecurity</b>
 - <b>Java</b>
+ - [Research work](https://github.com/JakesShell/CyberResearch/tree/main)
 - <b>JavaScript</b>
 - <b>Logism</b>
 - <b>Project Management</b>
