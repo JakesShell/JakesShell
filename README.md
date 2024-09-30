@@ -13,7 +13,7 @@ Data Theft/ CASE STUDY </b>
 - <b>Java</b>
  - [Political Party Guesser](https://github.com/JakesShell/PoliticalQuizApp/tree/main)
  - [Java implementation of a Binary Search Tree (BST)](https://github.com/JakesShell/BST/tree/main)
- - [Java implementation of a Binary Search Tree (BST)](https://github.com/JakesShell/BST/tree/main)
+ - [State Search App](https://github.com/JakesShell/BST/tree/main)
 - <b>JavaScript</b>
 - <b>Logism</b>
 - <b>Project Management</b>
