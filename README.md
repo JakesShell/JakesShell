@@ -17,7 +17,8 @@ Data Theft/ CASE STUDY </b>
  - [State Search App](https://github.com/JakesShell/StateSearch)
    
 - <b>JavaScript</b>
- - [Slot Machine Game](https://github.com/JakesShell/StateSearch)
+ - [Slot Machine Game](https://github.com/JakesShell/slotmachine)
+ - [Secret Number Game](https://github.com/JakesShell/slotmachine)
 - <b>Logism</b>
 - <b>Project Management</b>
 - <b>Phyton Projects</b>
