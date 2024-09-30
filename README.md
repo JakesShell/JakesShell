@@ -19,7 +19,8 @@ Data Theft/ CASE STUDY </b>
 - <b>JavaScript</b>
  - [Slot Machine Game](https://github.com/JakesShell/slotmachine)
  - [Secret Number Game](https://github.com/JakesShell/GuessTheNumber)
- - [Full stack <b>TO DO LIST</b> application](https://github.com/JakesShell/GuessTheNumber)  
+ - [Full stack <b>TO DO LIST</b> application](https://github.com/JakesShell/GuessTheNumber)
+ - [Full stack <b>WEATHER DASHBORD</b> application](https://github.com/JakesShell/GuessTheNumber)    
 - <b>Logism</b>
 - <b>Project Management</b>
 - <b>Phyton Projects</b>
