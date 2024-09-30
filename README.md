@@ -10,11 +10,14 @@ Data Theft/ CASE STUDY </b>
   - [Research work](https://github.com/JakesShell/CyberResearch/tree/main)
  
 - <b>Cybersecurity</b>
+
 - <b>Java</b>
  - [Political Party Guesser](https://github.com/JakesShell/PoliticalQuizApp/tree/main)
  - [Java implementation of a Binary Search Tree (BST)](https://github.com/JakesShell/BST/tree/main)
- - [State Search App](https://github.com/JakesShell/BST/tree/main)
+ - [State Search App](https://github.com/JakesShell/StateSearch)
+   
 - <b>JavaScript</b>
+ - [Slot Machine Game](https://github.com/JakesShell/StateSearch)
 - <b>Logism</b>
 - <b>Project Management</b>
 - <b>Phyton Projects</b>
