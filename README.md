@@ -7,7 +7,7 @@
   - [Praciting DS & Algos in Python](https://github.com/JakesShell/Algorithms-Practice)
 - <b>Unauthorized Access And 
 Data Theft/ CASE STUDY </b>
-  - [Research work](https://github.com/JakesShell/Algorithms-Practice)
+  - [Research work](https://github.com/JakesShell/CyberResearch/tree/main)
  
 - <b>Cybersecurity</b>
 - <b>Java</b>
