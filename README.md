@@ -1,7 +1,7 @@
 <h1>Hi, I'm Jaco! 
   <br/><a href="https://github.com/JohannesVRooyen">Programmer</a>, <a href="www.linkedin.com/in/jaco-van-rooyen-73b81731a">Cybersecurity Professional</a>, </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Software Development and Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/JakesShell/Algorithms-Practice)
