@@ -40,7 +40,8 @@ Data Theft/ CASE STUDY </b>
 - [Sentiment Analysis Tool in C++](https://github.com/JakesShell/Sentiment-Analysis-Tool/tree/main)
 - [Python for Image Classification](https://github.com/JakesShell/ImageClassification/tree/main)
 - [Movie Recommendation System using Python with collaborative filtering](https://github.com/JakesShell/Movierecommend/tree/main)
-- [Data Visualization Dashboard using Streamlit](https://github.com/JakesShell/Movierecommend/tree/main)
+- [Data Visualization Dashboard using Streamlit](https://github.com/JakesShell/Data-Visualization-Dashboard/tree/main)
+- [AI for Healthcare: Disease Diagnosis Predictive Model](https://github.com/JakesShell/Data-Visualization-Dashboard/tree/main)
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
 - <b>SEO</b>
