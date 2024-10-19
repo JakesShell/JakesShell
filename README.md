@@ -27,7 +27,8 @@ Data Theft/ CASE STUDY </b>
 - [<b>Project Charter:</b> Implementation of Tabletop Menu Tablets at Sauce and Spoon](https://github.com/JakesShell/Project-Charter-Sauce-and-Spoon)
 - [Networking Event](https://github.com/JakesShell/Networking-Event)
 - [Development of a Mobile Application for Local Business Listings](https://github.com/JakesShell/TaskFlowAppCharter)
-- [Spring Launch Marketing Campaign for Eco-Friendly Product Line](https://github.com/JakesShell/TaskFlowAppCharter) 
+- [Spring Launch Marketing Campaign for Eco-Friendly Product Line](https://github.com/JakesShell/Green-Horizon-Campaign)
+- [Premade Planner Collection](https://github.com/JakesShell/Green-Horizon-Campaign)
 - <b>Phyton Projects</b>
 - <b>Artificial Inteligence</b>
 - <b>Cybersecurity</b>
