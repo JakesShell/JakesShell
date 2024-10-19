@@ -30,8 +30,9 @@ Data Theft/ CASE STUDY </b>
 - [Spring Launch Marketing Campaign for Eco-Friendly Product Line](https://github.com/JakesShell/Green-Horizon-Campaign)
 - [Premade Planner Collection](https://github.com/JakesShell/PlannerCollection/tree/main)
 - [Office Renovation Project](https://github.com/JakesShell/OfficeReno)
-- [Website Redesign Project <b> Gant Chart</b>](https://github.com/JakesShell/OfficeReno)
+- [Website Redesign Project <b> Gant Chart</b>](https://github.com/JakesShell/GantChartWebRedesign)
 - <b>Phyton Projects</b>
+- [Personal Finance Tracker](https://github.com/JakesShell/GantChartWebRedesign)
 - <b>Artificial Inteligence</b>
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
