@@ -39,7 +39,8 @@ Data Theft/ CASE STUDY </b>
 - <b>Artificial Inteligence</b>
 - [Sentiment Analysis Tool in C++](https://github.com/JakesShell/Sentiment-Analysis-Tool/tree/main)
 - [Python for Image Classification](https://github.com/JakesShell/ImageClassification/tree/main)
-- [Movie Recommendation System using Python with collaborative filtering](https://github.com/JakesShell/ImageClassification/tree/main)
+- [Movie Recommendation System using Python with collaborative filtering](https://github.com/JakesShell/Movierecommend/tree/main)
+- [Data Visualization Dashboard using Streamlit](https://github.com/JakesShell/Movierecommend/tree/main)
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
 - <b>SEO</b>
