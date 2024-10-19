@@ -24,6 +24,7 @@ Data Theft/ CASE STUDY </b>
 - <b>Logism</b>
  - [ALU-Implementation-in-Logisim](https://github.com/JakesShell/ALU-Implementation-in-Logisim)    
 - <b>Project Management</b>
+- [<u>Project Charter:</u> Implementation of Tabletop Menu Tablets at Sauce and Spoon](https://github.com/JakesShell/ALU-Implementation-in-Logisim) 
 - <b>Phyton Projects</b>
 - <b>Artificial Inteligence</b>
 - <b>Cybersecurity</b>
