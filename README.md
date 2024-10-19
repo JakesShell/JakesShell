@@ -38,7 +38,8 @@ Data Theft/ CASE STUDY </b>
 - [Password Generator](https://github.com/JakesShell/Password-Generator)
 - <b>Artificial Inteligence</b>
 - [Sentiment Analysis Tool in C++](https://github.com/JakesShell/Sentiment-Analysis-Tool/tree/main)
-- [Python for Image Classification](https://github.com/JakesShell/Sentiment-Analysis-Tool/tree/main)
+- [Python for Image Classification](https://github.com/JakesShell/ImageClassification/tree/main)
+- [Movie Recommendation System using Python with collaborative filtering](https://github.com/JakesShell/ImageClassification/tree/main)
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
 - <b>SEO</b>
