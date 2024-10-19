@@ -35,8 +35,9 @@ Data Theft/ CASE STUDY </b>
 - [Personal Finance Tracker](https://github.com/JakesShell/FinanceTracker/tree/main)
 - [Job listings <b>Web scraper</b>](https://github.com/JakesShell/WebScraper/tree/main)
 - [Creating a chatbot and enhancing it](https://github.com/JakesShell/PythonChatbot/tree/main)
-- [Password Generator](https://github.com/JakesShell/PythonChatbot/tree/main)
+- [Password Generator](https://github.com/JakesShell/Password-Generator)
 - <b>Artificial Inteligence</b>
+- [Sentiment Analysis Tool](https://github.com/JakesShell/Password-Generator)
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
 - <b>SEO</b>
