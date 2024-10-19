@@ -53,8 +53,8 @@ Data Theft/ CASE STUDY </b>
 - [Malware Analysis Sandbox in Java](https://github.com/JakesShell/Malware-Analysis/tree/main)
 - [Network Security Monitoring Dashboard](https://github.com/JakesShell/-Network-Security-Monitoring-Dashboard/tree/main)
 - [Web Application Firewall (WAF)](https://github.com/JakesShell/Web-Application-Firewall-WAF-)
-- [Penetration Testing Toolkit](https://github.com/JakesShell/Web-Application-Firewall-WAF-)
-- 
+- [Penetration Testing Toolkit](https://github.com/JakesShell/Penetration-Testing-Toolkit)
+- [Security Awareness Training Module](https://github.com/JakesShell/Penetration-Testing-Toolkit)
 
 
   
