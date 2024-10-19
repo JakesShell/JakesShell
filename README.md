@@ -55,6 +55,7 @@ Data Theft/ CASE STUDY </b>
 - [Web Application Firewall (WAF)](https://github.com/JakesShell/Web-Application-Firewall-WAF-)
 - [Penetration Testing Toolkit](https://github.com/JakesShell/Penetration-Testing-Toolkit)
 - [Security Awareness Training Module](https://github.com/JakesShell/Penetration-Testing-Toolkit)
+- [Secure File Sharing Application](https://github.com/JakesShell/Penetration-Testing-Toolkit)
 
 
   
