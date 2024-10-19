@@ -33,7 +33,8 @@ Data Theft/ CASE STUDY </b>
 - [Website Redesign Project <b> Gant Chart</b>](https://github.com/JakesShell/GantChartWebRedesign)
 - <b>Phyton Projects</b>
 - [Personal Finance Tracker](https://github.com/JakesShell/FinanceTracker/tree/main)
-- [Web scraper](https://github.com/JakesShell/FinanceTracker/tree/main)
+- [Job listings <b>Web scraper</b>](https://github.com/JakesShell/WebScraper/tree/main)
+- [Creating a chatbot](https://github.com/JakesShell/WebScraper/tree/main)
 - <b>Artificial Inteligence</b>
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
