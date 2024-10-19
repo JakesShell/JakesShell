@@ -34,7 +34,8 @@ Data Theft/ CASE STUDY </b>
 - <b>Phyton Projects</b>
 - [Personal Finance Tracker](https://github.com/JakesShell/FinanceTracker/tree/main)
 - [Job listings <b>Web scraper</b>](https://github.com/JakesShell/WebScraper/tree/main)
-- [Creating a chatbot](https://github.com/JakesShell/WebScraper/tree/main)
+- [Creating a chatbot and enhancing it](https://github.com/JakesShell/PythonChatbot/tree/main)
+- [Password Generator](https://github.com/JakesShell/PythonChatbot/tree/main)
 - <b>Artificial Inteligence</b>
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
