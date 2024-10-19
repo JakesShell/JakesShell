@@ -5,12 +5,11 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/JakesShell/Algorithms-Practice)
+    
 - <b>Unauthorized Access And 
 Data Theft/ CASE STUDY </b>
   - [Research work](https://github.com/JakesShell/CyberResearch/tree/main)
  
-- <b>Cybersecurity</b>
-
 - <b>Java</b>
  - [Political Party Guesser](https://github.com/JakesShell/PoliticalQuizApp/tree/main)
  - [Java implementation of a Binary Search Tree (BST)](https://github.com/JakesShell/BST/tree/main)
@@ -20,9 +19,11 @@ Data Theft/ CASE STUDY </b>
  - [Slot Machine Game](https://github.com/JakesShell/slotmachine)
  - [Secret Number Game](https://github.com/JakesShell/GuessTheNumber)
  - [Full stack <b>TO DO LIST</b> application](https://github.com/JakesShell/ToDoList)
- - [Full stack <b>WEATHER DASHBORD</b> application](https://github.com/JakesShell/WeatherDash/tree/main)    
+ - [Full stack <b>WEATHER DASHBORD</b> application](https://github.com/JakesShell/WeatherDash/tree/main) 
+ 
 - <b>Logism</b>
- - [ALU-Implementation-in-Logisim](https://github.com/JakesShell/ALU-Implementation-in-Logisim)    
+ - [ALU-Implementation-in-Logisim](https://github.com/JakesShell/ALU-Implementation-in-Logisim)
+   
 - <b>Project Management</b>
 - [<b>Project Charter:</b> Implementation of Tabletop Menu Tablets at Sauce and Spoon](https://github.com/JakesShell/Project-Charter-Sauce-and-Spoon)
 - [Networking Event](https://github.com/JakesShell/Networking-Event)
@@ -31,18 +32,23 @@ Data Theft/ CASE STUDY </b>
 - [Premade Planner Collection](https://github.com/JakesShell/PlannerCollection/tree/main)
 - [Office Renovation Project](https://github.com/JakesShell/OfficeReno)
 - [Website Redesign Project <b> Gant Chart</b>](https://github.com/JakesShell/GantChartWebRedesign)
+  
 - <b>Phyton Projects</b>
 - [Personal Finance Tracker](https://github.com/JakesShell/FinanceTracker/tree/main)
 - [Job listings <b>Web scraper</b>](https://github.com/JakesShell/WebScraper/tree/main)
 - [Creating a chatbot and enhancing it](https://github.com/JakesShell/PythonChatbot/tree/main)
 - [Password Generator](https://github.com/JakesShell/Password-Generator)
+  
 - <b>Artificial Inteligence</b>
 - [Sentiment Analysis Tool in C++](https://github.com/JakesShell/Sentiment-Analysis-Tool/tree/main)
 - [Python for Image Classification](https://github.com/JakesShell/ImageClassification/tree/main)
 - [Movie Recommendation System using Python with collaborative filtering](https://github.com/JakesShell/Movierecommend/tree/main)
 - [Data Visualization Dashboard using Streamlit](https://github.com/JakesShell/Data-Visualization-Dashboard/tree/main)
-- [AI for Healthcare: Disease Diagnosis Predictive Model](https://github.com/JakesShell/Data-Visualization-Dashboard/tree/main)
+- [AI for Healthcare: Disease Diagnosis Predictive Model](https://github.com/JakesShell/Disease-Diagnosis/tree/main)
+  
 - <b>Cybersecurity</b>
+- [Vulnerability Assessment Tool implemented in JavaScript](https://github.com/JakesShell/Disease-Diagnosis/tree/main)
+  
 - <b>Databaseprogramming</b>
 - <b>SEO</b>
 
