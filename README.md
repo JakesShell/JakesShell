@@ -22,6 +22,7 @@ Data Theft/ CASE STUDY </b>
  - [Full stack <b>TO DO LIST</b> application](https://github.com/JakesShell/ToDoList)
  - [Full stack <b>WEATHER DASHBORD</b> application](https://github.com/JakesShell/WeatherDash/tree/main)    
 - <b>Logism</b>
+ - [Full stack <b>WEATHER DASHBORD</b> application](https://github.com/JakesShell/WeatherDash/tree/main)    
 - <b>Project Management</b>
 - <b>Phyton Projects</b>
 - <b>Artificial Inteligence</b>
