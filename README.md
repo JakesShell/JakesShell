@@ -28,7 +28,8 @@ Data Theft/ CASE STUDY </b>
 - [Networking Event](https://github.com/JakesShell/Networking-Event)
 - [Development of a Mobile Application for Local Business Listings](https://github.com/JakesShell/TaskFlowAppCharter)
 - [Spring Launch Marketing Campaign for Eco-Friendly Product Line](https://github.com/JakesShell/Green-Horizon-Campaign)
-- [Premade Planner Collection](https://github.com/JakesShell/Green-Horizon-Campaign)
+- [Premade Planner Collection](https://github.com/JakesShell/PlannerCollection/tree/main)
+- [Office Renovation Project](https://github.com/JakesShell/PlannerCollection/tree/main)
 - <b>Phyton Projects</b>
 - <b>Artificial Inteligence</b>
 - <b>Cybersecurity</b>
