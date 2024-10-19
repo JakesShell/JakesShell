@@ -37,7 +37,8 @@ Data Theft/ CASE STUDY </b>
 - [Creating a chatbot and enhancing it](https://github.com/JakesShell/PythonChatbot/tree/main)
 - [Password Generator](https://github.com/JakesShell/Password-Generator)
 - <b>Artificial Inteligence</b>
-- [Sentiment Analysis Tool](https://github.com/JakesShell/Password-Generator)
+- [Sentiment Analysis Tool in C++](https://github.com/JakesShell/Sentiment-Analysis-Tool/tree/main)
+- [Python for Image Classification](https://github.com/JakesShell/Sentiment-Analysis-Tool/tree/main)
 - <b>Cybersecurity</b>
 - <b>Databaseprogramming</b>
 - <b>SEO</b>
