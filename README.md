@@ -47,7 +47,9 @@ Data Theft/ CASE STUDY </b>
 - [AI for Healthcare: Disease Diagnosis Predictive Model](https://github.com/JakesShell/Disease-Diagnosis/tree/main)
   
 - <b>Cybersecurity</b>
-- [Vulnerability Assessment Tool implemented in JavaScript](https://github.com/JakesShell/Disease-Diagnosis/tree/main)
+- [Vulnerability Assessment Tool implemented in JavaScript](https://github.com/JakesShell/Vulnerability-Assessment-Tool/tree/main)
+- [Intrusion Detection System (IDS)](https://github.com/JakesShell/Vulnerability-Assessment-Tool/tree/main)
+
   
 - <b>Databaseprogramming</b>
 - <b>SEO</b>
