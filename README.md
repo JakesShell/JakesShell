@@ -58,8 +58,10 @@ Data Theft/ CASE STUDY </b>
 - [Secure File Sharing Application](https://github.com/JakesShell/Secure-File-Sharing-Application/tree/main)
     
 - <b>Databaseprogramming</b>
-- [Library Database Management System mySQL](https://github.com/JakesShell/Secure-File-Sharing-Application/tree/main)
+- [Library Database Management System mySQL](https://github.com/JakesShell/Library-Database-Management-System/tree/main)
+  
 - <b>SEO</b>
+- [Creating a web-based SEO Audit Tool](https://github.com/JakesShell/Library-Database-Management-System/tree/main)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
