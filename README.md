@@ -51,7 +51,9 @@ Data Theft/ CASE STUDY </b>
 - [Intrusion Detection System (IDS)](https://github.com/JakesShell/IDS/tree/main)
 - [Phishing Detection Tool](https://github.com/JakesShell/Phishing-Detection-Tool/tree/main)
 - [Malware Analysis Sandbox in Java](https://github.com/JakesShell/Malware-Analysis/tree/main)
-- [Network Security Monitoring Dashboard](https://github.com/JakesShell/Malware-Analysis/tree/main)
+- [Network Security Monitoring Dashboard](https://github.com/JakesShell/-Network-Security-Monitoring-Dashboard/tree/main)
+- [Web Application Firewall (WAF)](https://github.com/JakesShell/-Network-Security-Monitoring-Dashboard/tree/main)
+- 
 
 
   
