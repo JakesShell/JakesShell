@@ -48,7 +48,8 @@ Data Theft/ CASE STUDY </b>
   
 - <b>Cybersecurity</b>
 - [Vulnerability Assessment Tool implemented in JavaScript](https://github.com/JakesShell/Vulnerability-Assessment-Tool/tree/main)
-- [Intrusion Detection System (IDS)](https://github.com/JakesShell/Vulnerability-Assessment-Tool/tree/main)
+- [Intrusion Detection System (IDS)](https://github.com/JakesShell/IDS/tree/main)
+- [Phishing Detection Tool](https://github.com/JakesShell/IDS/tree/main)
 
   
 - <b>Databaseprogramming</b>
