@@ -63,7 +63,7 @@ Data Theft/ CASE STUDY </b>
 - <b>SEO</b>
 - [Creating a web-based SEO Audit Tool](https://github.com/JakesShell/SEO-Audit-Tool/tree/main)
 - [Keyword Research Tool](https://github.com/JakesShell/Keyword-Research-Tool/tree/main)
-- [Content Optimization Analyzer](https://github.com/JakesShell/Keyword-Research-Tool/tree/main)
+- [Content Optimization Analyzer](https://github.com/JakesShell/Content-Optimization-Analyzer/tree/main)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
