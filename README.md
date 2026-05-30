@@ -124,4 +124,3 @@ My strongest interest is building software that helps teams detect problems earl
 
 - [LinkedIn](https://www.linkedin.com/in/jaco-van-rooyen-73b81731a)
 - [GitHub Profile](https://github.com/JakesShell)
-
